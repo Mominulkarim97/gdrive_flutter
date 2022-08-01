@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "305336831299",
+    "project_id": "flutter-gdrive-dace3",
+    "storage_bucket": "flutter-gdrive-dace3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305336831299:android:875477d95d669a617033f6",
+        "android_client_info": {
+          "package_name": "com.example.test_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305336831299-usob0smq2q208hbpj5id46pji2ievcc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD85E6wcQNZWrpT5D8U-nMNiZ8I1QdhrpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305336831299-gc10boquandmuembtupur15b2pqem9n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
